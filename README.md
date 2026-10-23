@@ -60,7 +60,8 @@ My engineering work bridges the gap between machine learning research and resili
 <p align="center">
   <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
-##  Tech Stack
+
+## Tech Stack
 
 ### 🧠 Artificial Intelligence & Machine Learning
 <p>
