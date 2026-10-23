@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  <a href="https://portfolio-psi-eight-45.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-0B0B0B?style=flat-square&logo=vercel&logoColor=16A58F&labelColor=111111" alt="Portfolio" /></a>
+  <!-- <a href="https://portfolio-psi-eight-45.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-0B0B0B?style=flat-square&logo=vercel&logoColor=16A58F&labelColor=111111" alt="Portfolio" /></a> -->
   <a href="https://linkedin.com/in/talharusman"><img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=flat-square&logo=linkedin&logoColor=16A58F&labelColor=111111" alt="LinkedIn" /></a>
   <a href="https://github.com/talharusman"><img src="https://img.shields.io/badge/GitHub-0B0B0B?style=flat-square&logo=github&logoColor=16A58F&labelColor=111111" alt="GitHub" /></a>
   <a href="mailto:talharusman2004@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0B0B0B?style=flat-square&logo=gmail&logoColor=16A58F&labelColor=111111" alt="Email" /></a>
@@ -23,11 +23,15 @@
   <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
-## 01 // PROFILE OVERVIEW
+## About Me
 
 I am an **AI/ML Engineer and Full-Stack Developer** in my final year pursuing a **Bachelor of Science in Artificial Intelligence** at **FAST National University of Computer and Emerging Sciences (FAST-NUCES)**, Karachi (Graduation: May 2027).
 
 My engineering work bridges the gap between machine learning research and resilient production software. I specialize in designing and deploying low-latency deep learning pipelines, fine-tuning large language models with parameter-efficient techniques, and architecting full-stack applications with production-grade APIs, authentication, and database schemas.
+
+<p align="center">
+  <img src="assets/divider-2.svg" alt="divider" width="100%" />
+</p>
 
 ## ✨ Profile Snapshot
 
@@ -42,6 +46,9 @@ My engineering work bridges the gap between machine learning research and resili
 | 📊 **Metrics** | 90+ Lighthouse · ≤35ms CV Latency · 94% ML Accuracy |
 
 <br />
+<p align="center">
+  <img src="assets/divider-2.svg" alt="divider" width="100%" />
+</p>
 
 ## 🎯 Current Focus
 
@@ -53,7 +60,7 @@ My engineering work bridges the gap between machine learning research and resili
 <p align="center">
   <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
-## 04 // TECHNICAL SKILLS & TOOLING
+##  Tech Stack
 
 ### 🧠 Artificial Intelligence & Machine Learning
 <p>
@@ -109,7 +116,7 @@ My engineering work bridges the gap between machine learning research and resili
   <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
-## 05 // GITHUB CONTRIBUTION ACTIVITY
+## GitHub Contribution & Activity 
 
 <div align="center">
   <p><sub>Live authentic commit &amp; contribution heatmap via GitHub API</sub></p>
@@ -129,14 +136,14 @@ My engineering work bridges the gap between machine learning research and resili
   <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
-## 06 // CONNECT & COLLABORATE
+## Connect & Collaborate
 
 I am always interested in discussing machine learning systems, high-throughput backend architecture, open-source initiatives, or software engineering roles.
 
 <p align="center">
-  <a href="https://portfolio-psi-eight-45.vercel.app">
+  <!-- <a href="https://portfolio-psi-eight-45.vercel.app">
     <img src="https://img.shields.io/badge/Interactive_Portfolio-portfolio--psi--eight--45.vercel.app-0B0B0B?style=for-the-badge&logo=vercel&logoColor=16A58F&labelColor=111111" alt="Interactive Portfolio" />
-  </a>
+  </a> -->
   <br /><br />
   <a href="https://linkedin.com/in/talharusman">
     <img src="https://img.shields.io/badge/LinkedIn-talharusman-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=16A58F&labelColor=111111" alt="LinkedIn" />
