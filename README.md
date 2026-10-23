@@ -29,146 +29,30 @@ I am an **AI/ML Engineer and Full-Stack Developer** in my final year pursuing a 
 
 My engineering work bridges the gap between machine learning research and resilient production software. I specialize in designing and deploying low-latency deep learning pipelines, fine-tuning large language models with parameter-efficient techniques, and architecting full-stack applications with production-grade APIs, authentication, and database schemas.
 
-```
-┌─────────────────────────┬────────────────────────────────────────────────────────┐
-│ DOMAIN FOCUS            │ PRODUCTION ATTRIBUTES                                  │
-├─────────────────────────┼────────────────────────────────────────────────────────┤
-│ LLM & NLP Systems       │ LoRA Fine-Tuning, GGUF/llama.cpp Local CPU Inference,   │
-│                         │ Enterprise RAG Pipelines, PII Detection & Redaction    │
-├─────────────────────────┼────────────────────────────────────────────────────────┤
-│ Computer Vision & Pose  │ MediaPipe 33-Joint Pose Extraction, Custom ST-GCN,     │
-│                         │ Real-Time Webcam Stream Inference (≤35ms, 30 FPS)     │
-├─────────────────────────┼────────────────────────────────────────────────────────┤
-│ Full-Stack Architecture │ Next.js 14, FastAPI, Node.js/Express, WebSockets,       │
-│                         │ PostgreSQL & MySQL ACID Transactions, 90+ Lighthouse   │
-└─────────────────────────┴────────────────────────────────────────────────────────┘
-```
+## ✨ Profile Snapshot
+
+| | |
+| :--- | :--- |
+| 🎓 **Education** | AI @ FAST-NUCES · Class of 2027 |
+| 🏛️ **Leadership** | Head, Robotics & Automation Society · Head, AI Grand Prix (PROCOM) |
+| 💼 **Experience** | AI/ML Intern @ Bank Alfalah · Full-Stack Developer (Contract) |
+| 🤖 **Primary Focus** | LLM Fine-Tuning (LoRA) · Computer Vision (ST-GCN) · AI Gateways |
+| 🌐 **Stack** | FastAPI + Next.js + PyTorch + PostgreSQL — production-first |
+| 🧩 **Approach** | Local CPU Inference (GGUF/llama.cpp) · RAG · Real-Time WebSockets |
+| 📊 **Metrics** | 90+ Lighthouse · ≤35ms CV Latency · 94% ML Accuracy |
+
+<br />
+
+## 🎯 Current Focus
+
+* **Architecting Privacy-Aware AI Gateways**: Deploying local and cloud LLM arbitration, enterprise RAG, and automated NLP entity redaction.
+* **Low-Latency Edge & CPU Inference**: Fine-tuning open models (Qwen 2.5 with LoRA on 5K+ samples) and deploying quantized GGUF via `llama.cpp`.
+* **Real-Time Computer Vision & Pose Tracking**: Building webcam-driven combat engines using MediaPipe 33-joint extraction and custom ST-GCN at ≤35ms latency.
+* **Resilient Full-Stack Systems**: Developing Next.js 14 and FastAPI architectures with Stripe payments, OAuth 2.0, WebSockets, and normalized ACID schemas.
 
 <p align="center">
   <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
-
-## 02 // VERIFIED ACHIEVEMENTS & LEADERSHIP
-
-### 🏛️ University Leadership & Community Impact
-* **Head — Robotics & Automation Society (FAST-NUCES):** Organized university-wide AI/ML technical workshops and competitive hackathons, expanding active engineering community engagement by **150%**.
-* **Head — AI Grand Prix Module, PROCOM (FAST-NUCES):** Directed the premier national AI competition track for the annual computer science olympiad, orchestrating end-to-end automated ML evaluation for **50+ participants** across Pakistan.
-
-### 💼 Industry Engineering Experience
-* **AI/ML Intern — Bank Alfalah Limited (IT Big Data Department | Jun 2026 – Jul 2026):**
-  * Engineered and deployed the **Secure AI Banking Gateway**, a privacy-aware FastAPI service dynamically routing sensitive transactions between cloud and local LLMs.
-  * Implemented NLP-based entity detection & redaction, RAG pipelines, conversation memory, rate limiting, and JWT authentication.
-  * Fine-tuned **Qwen 2.5 0.5B** with **LoRA** across **5,000 banking-support samples** (eval loss: `0.1885`, perplexity: `1.2074`). Quantized to **GGUF** for low-latency CPU inference via `llama.cpp`.
-* **Full-Stack Developer (Contract / Freelance | Jun 2025 – Aug 2025):**
-  * Delivered **3 production-ready full-stack applications** using Next.js 14, TypeScript, and REST APIs, sustaining **90+ Lighthouse scores** and driving a **40% LCP improvement** through dynamic code splitting.
-  * Implemented Stripe payment workflows, OAuth 2.0 authentication, and third-party API integrations delivered within rigorous Agile sprints.
-
-<p align="center">
-  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
-</p>
-
-## 03 // FEATURED ENGINEERING PROJECTS
-
-<table>
-  <thead>
-    <tr>
-      <th width="35%">Project & Repository</th>
-      <th width="25%">Core Stack</th>
-      <th width="40%">Engineering Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b><a href="https://github.com/talharusman/ml_com">AI Grand Prix Platform</a></b><br />
-        <sub>Automated ML Competition & Evaluation Engine</sub>
-      </td>
-      <td>
-        <code>Next.js</code> <code>FastAPI</code><br />
-        <code>PostgreSQL</code> <code>WebSockets</code>
-      </td>
-      <td>
-        • Architected platform serving <b>50+ participants</b> with automated code submission scoring, cutting manual evaluation by <b>80%</b>.<br />
-        • Real-time WebSocket leaderboard delivering <b>sub-100ms latency</b> across 3 distinct role-based portals (Admin, Judge, Participant).
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/talharusman/Gesture_Controller">ZeroController: CV Fighting Game</a></b><br />
-        <sub>Real-Time Body-Controlled 2D Combat Engine</sub>
-      </td>
-      <td>
-        <code>PyTorch</code> <code>MediaPipe</code><br />
-        <code>OpenCV</code> <code>ST-GCN</code>
-      </td>
-      <td>
-        • Webcam-driven combat interaction tracking 33 skeletal joints via custom Spatio-Temporal Graph Convolutional Network.<br />
-        • Recognizes <b>9 combat actions</b> at <b>≤35ms CPU latency</b> (30 FPS); engineered on 631 labeled skeleton sequences with hip-centering & velocity features.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/talharusman/Real-Fake-Job-Posting-Prediction">Fake Job Posting Detection</a></b><br />
-        <sub>Real-Time NLP Classification System</sub>
-      </td>
-      <td>
-        <code>Python</code> <code>Flask</code><br />
-        <code>Scikit-Learn</code> <code>React.js</code>
-      </td>
-      <td>
-        • Trained and validated TF-IDF + SMOTE classification pipeline reporting <b>94% accuracy</b> across <b>18,000+ job listings</b>.<br />
-        • Deployed high-throughput Flask REST API coupled with React.js frontend providing <b>sub-200ms real-time inference</b>.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/talharusman/Hospital_Managment_System">Hospital Management System</a></b><br />
-        <sub>Multi-Portal Clinical Healthcare Platform</sub>
-      </td>
-      <td>
-        <code>Next.js</code> <code>Node.js</code><br />
-        <code>Express.js</code> <code>MySQL</code>
-      </td>
-      <td>
-        • Engineered 5 JWT-secured portals (Admin, Doctor, Staff, Lab, Pharmacy) supporting <b>100+ concurrent sessions</b>.<br />
-        • Designed <b>15+ normalized relational tables</b> with strict ACID transactions for patient records and lab operations.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/talharusman/Real-Estate">Real Estate Marketplace</a></b><br />
-        <sub>Full-Stack Property & Subscription Engine</sub>
-      </td>
-      <td>
-        <code>Next.js 14</code> <code>TypeScript</code><br />
-        <code>Prisma</code> <code>Supabase</code> <code>Stripe</code>
-      </td>
-      <td>
-        • Full-stack platform featuring listing management, Supabase image storage for <b>500+ listings</b>, and Kinde OAuth 2.0 authentication.<br />
-        • Integrated Stripe recurring subscription billing and comprehensive search/filtering infrastructure.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/talharusman/AI_Engineering-">Secure AI Banking Gateway</a></b><br />
-        <sub>Privacy-First LLM Routing & In-House Inference</sub>
-      </td>
-      <td>
-        <code>FastAPI</code> <code>Qwen 2.5</code><br />
-        <code>LoRA</code> <code>GGUF</code> <code>llama.cpp</code>
-      </td>
-      <td>
-        • Privacy-centric gateway providing local/cloud LLM arbitration, automatic PII redaction, conversation state, and rate limiting.<br />
-        • Runs quantized fine-tuned models on CPU via <code>llama.cpp</code>, meeting strict security constraints without cloud leakages.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="center">
-  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
-</p>
-
 ## 04 // TECHNICAL SKILLS & TOOLING
 
 ### 🧠 Artificial Intelligence & Machine Learning
