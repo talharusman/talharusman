@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
 ## 01 // PROFILE OVERVIEW
@@ -45,7 +45,7 @@ My engineering work bridges the gap between machine learning research and resili
 ```
 
 <p align="center">
-  <img src="assets/divider-tech.svg" alt="divider" width="100%" />
+  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
 ## 02 // VERIFIED ACHIEVEMENTS & LEADERSHIP
@@ -64,7 +64,7 @@ My engineering work bridges the gap between machine learning research and resili
   * Implemented Stripe payment workflows, OAuth 2.0 authentication, and third-party API integrations delivered within rigorous Agile sprints.
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
 ## 03 // FEATURED ENGINEERING PROJECTS
@@ -166,7 +166,7 @@ My engineering work bridges the gap between machine learning research and resili
 </table>
 
 <p align="center">
-  <img src="assets/divider-tech.svg" alt="divider" width="100%" />
+  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
 ## 04 // TECHNICAL SKILLS & TOOLING
@@ -222,7 +222,7 @@ My engineering work bridges the gap between machine learning research and resili
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
 ## 05 // GITHUB CONTRIBUTION ACTIVITY
@@ -242,7 +242,7 @@ My engineering work bridges the gap between machine learning research and resili
 </div>
 
 <p align="center">
-  <img src="assets/divider-tech.svg" alt="divider" width="100%" />
+  <img src="assets/divider-beam.svg" alt="divider" width="100%" />
 </p>
 
 ## 06 // CONNECT & COLLABORATE
